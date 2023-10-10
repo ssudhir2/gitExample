@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,ssudhir2,Sudhir,Shrivats
 employee,natesansridh,Natesan Sridhar,Preethi
